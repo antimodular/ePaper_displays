@@ -1,6 +1,7 @@
 # ePaper displays
-
 --
+![partical refresh](video.gif)
+
 ## GxEPD2 Library
 Thanks to the [GxEPD2](https://github.com/ZinggJM/GxEPD2) library partical refresh can be achieved. This means you do not get the extrem flash moment during which the whole display switches between black and white.
 
