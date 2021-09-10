@@ -24,4 +24,5 @@ New fonts can be imported thanks to this web app http://oleddisplay.squix.ch/
 
 ## Photos and Video
 ![Microcontrollers used](M0Express_HUZZAH.JPG)
+![Huzzah32+GDEH0213B74 and Huzzah8266+GDEH0213B72](HUZZAH_B74_B72.JPG)
 ![partical refresh](video.gif)
